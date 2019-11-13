@@ -3,7 +3,7 @@ module.exports = {
     title: `Fun things @ work`,
     author: `Chandra Kuchi`,
     description: `Mostly professional and may be some personal travails.`,
-    siteUrl: ``,
+    siteUrl: `https://blog.ckuchi.com`,
     social: {
       twitter: `ckkuchi`,
     },

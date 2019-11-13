@@ -57,7 +57,7 @@ const Bio = () => {
         <strong>{author}</strong> personal blog, obligatory all opinions are personal and not employer's.
         {` `}
         <a href={`https://twitter.com/${social.twitter}`}>
-          Tweets from.
+          Twitter @.
         </a>
       </p>
     </div>
