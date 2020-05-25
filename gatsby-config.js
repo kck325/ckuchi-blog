@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Fun things @ work`,
+    title: `I make mistakes`,
     author: `Chandra Kuchi`,
-    description: `Mostly professional and may be some personal travails.`,
+    description: `So you can learn from them.`,
     siteUrl: `https://blog.ckuchi.com`,
     social: {
       twitter: `ckkuchi`,
@@ -74,5 +74,7 @@ module.exports = {
         pathToConfigModule: `src/utils/typography`,
       },
     },
+    `gatsby-plugin-use-dark-mode`, 
+    `use-dark-mode`,
   ],
 }
