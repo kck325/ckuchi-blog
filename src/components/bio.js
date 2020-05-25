@@ -54,7 +54,7 @@ const Bio = () => {
         }}
       />
       <p>
-        <strong>{author}</strong> makes mistakes so you can learn from, obligatory all opinions are personal and not employer's.
+        <strong>{author}</strong> personal blog, obligatory all opinions are personal and not employer's.
         {` `}
         <a href={`https://twitter.com/${social.twitter}`}>
           Twitter @.
