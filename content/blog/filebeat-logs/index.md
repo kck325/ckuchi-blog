@@ -1,6 +1,6 @@
 ---
 title: Filebeat (part of beats family)
-date: "2020-06-16T00:00:00.000Z"
+date: "2020-06-06T00:00:00.000Z"
 ---
 This is my first foray into reading code through open source repositories and write down thoughts. Hope to do this on a regular basis.
 
